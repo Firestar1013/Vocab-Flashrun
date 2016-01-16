@@ -1,28 +1,30 @@
 import greenfoot.*;
-import java.awt.Color;
+
 /**
- * Write a description of class Title here.
+ * Write a description of class L1Q1 here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Title extends World
+public class L1Q1 extends World
 {
 
     /**
-     * Constructor for objects of class Title.
+     * Constructor for objects of class L1Q1.
      * 
      */
-    public Title()
+    public L1Q1()
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(960, 720, 1); 
-       getBackground().fillRect(70,155,125,125);
     }
     
-    public void act()
+        public void act()
     {
         if(Greenfoot.isKeyDown("1"))
-        Greenfoot.setWorld(new Instructions()); 
+        Greenfoot.setWorld(new Instructions());
+        
+        if(Greenfoot.isKeyDown("3"))
+        Greenfoot.setWorld(new L1Q2());
     }
 }

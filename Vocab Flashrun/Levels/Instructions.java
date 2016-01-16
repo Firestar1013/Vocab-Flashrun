@@ -1,4 +1,4 @@
-import greenfoot.*;
+ import greenfoot.*;
 
 /**
  * Write a description of class Instructions here.
@@ -23,5 +23,8 @@ public class Instructions extends World
     {
         if(Greenfoot.isKeyDown("Backspace"))
         Greenfoot.setWorld(new Title());
+        
+        if(Greenfoot.isKeyDown("2"))
+        Greenfoot.setWorld(new L1Q1());
     }
 }
