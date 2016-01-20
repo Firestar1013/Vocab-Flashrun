@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Title()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Title.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment3.params=str\ max
+comment3.target=java.lang.String[]\ wordWrap(java.lang.String,\ int)
+comment3.text=\r\n\ Wraps\ a\ single\ string\ into\ an\ array\ of\ strings\ for\ some\ maximum\r\n\ number\ of\ characters.\ Also\ will\ split\ lines\ on\ newlines\ or\ the\r\n\ characters\ "\\n"\ allowing\ simple\ manually-placed\ newlines.\r\n\r\n\ Changed\ the\ regex,\ dded\ max,\ added\ newline\ split,\ removed\ extra\r\n\ blank\ line\ at\ end.\r\n\r\n\ @see\ http\://joust.kano.net/weblog/archives/000060.html\r\n
+numComments=4

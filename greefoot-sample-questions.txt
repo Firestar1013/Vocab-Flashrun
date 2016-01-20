@@ -1,0 +1,6 @@
+L1Q1 What type of graph is this?,Parabola,Oval,Cubic,It's not a graph
+L1Q2 How many degrees does a triangle have?,90,180,270,360
+L1Q3 What is the name of the equation used to find the length of a hypotenuse?,Distance Formula,Pythagorean Theorem,Associative Property,Midpoint Formula
+L2Q1 What is the Quadratic Formula?,(a+b)+c=a+(b+c),a2+b2=c2,a= pr^2,x= (-b±vb2-4ac) / (2a)
+L2Q2 What type of angle does this represent?,Adjacent,Complementary,Supplementary,Congruent
+L2Q3 What type of triangle has exactly two sides of equal length?,Equilateral,Isosceles,Scalene,Obtuse
