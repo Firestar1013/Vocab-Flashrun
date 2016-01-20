@@ -19,10 +19,4 @@ public class Title extends World
         super(960, 720, 1); 
        getBackground().fillRect(70,155,125,125);
     }
-    
-    public void act()
-    {
-        if(Greenfoot.isKeyDown("1"))
-        Greenfoot.setWorld(new Instructions()); 
-    }
 }
